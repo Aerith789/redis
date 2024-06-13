@@ -1,1 +1,1 @@
-FROM redis:7-alpine3.20
+FROM redis:6.2.14
